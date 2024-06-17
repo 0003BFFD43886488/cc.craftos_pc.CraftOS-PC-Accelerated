@@ -1,5 +1,4 @@
 # Servidor MariaDB
-
 Este paquete contiene una serie de archivos .rpm que juntos componen la distribución de MariaDB Server.
 
  Los paquetes incluidos en este archivo pueden variar según el sistema operativo que esté utilizando y su versión, ya que diferentes componentes pueden requerir bibliotecas o funcionalidades disponibles solo en versiones más recientes.
