@@ -1,6 +1,4 @@
-# cc.craftos_pc.CraftOS-PC-Accelerated
-
-Servidor MariaDB
+# Servidor MariaDB
 
 Este paquete contiene una serie de archivos .rpm que juntos componen la distribución de MariaDB Server.
 
